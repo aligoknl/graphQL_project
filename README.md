@@ -1,8 +1,6 @@
 # graphQL_project
 
-## 1. Link and Preview
-
-Project link is available at [GraphQL_project](https://github.com/)
+## 1. Preview
 
 ![Preview of GraphQL_project App!](data/graphQL.GIF)
 
