@@ -4,7 +4,7 @@
 
 Project link is available at [GraphQL_project](https://github.com/)
 
-![Preview of GraphQL_project App!](/graphQL.GIF)
+![Preview of GraphQL_project App!](data/graphQL.GIF)
 
 ## 2. Description
 
